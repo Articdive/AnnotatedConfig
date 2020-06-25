@@ -2,7 +2,7 @@
 ![banner](banner.png)
 
 [![license](https://img.shields.io/github/license/articdive/AnnotatedConfig.svg)](../LICENSE)
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
 [![Discord Shield](https://discordapp.com/api/guilds/525595722859675648/widget.png?style=shield)](https://discord.gg/UnQtnUS)
 
 AnnotatedConfig is a simple-to-use java-library for creating configs using annotations on fields.
