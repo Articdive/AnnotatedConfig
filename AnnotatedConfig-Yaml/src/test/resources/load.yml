@@ -1,0 +1,26 @@
+# Section A Keep
+a:
+  # This is a name. Keep
+  name: ''
+  # Section B Keep
+  b:
+    # This is a name. Keep
+    name: Tommy
+    # Section C Keep
+    c:
+      # This is a name. Keep
+      name: Samuel
+    # Section D Keep
+    d:
+      # This is a name. Keep
+      name: ''
+# Comment Keep
+boolean: false
+# Comment Keep
+double: 1.11
+# Comment Keep
+integer: 1
+# Comment Keep
+list: ["Hello", "John", "was", "here!"]
+# Comment Keep
+long: 1

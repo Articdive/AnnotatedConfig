@@ -1,0 +1,26 @@
+# Comment Keep
+boolean =  false
+# Comment Keep
+double = 1.11
+# Comment Keep
+integer = 1
+# Comment Keep
+list = ["Hello", "John", "was", "here!"]
+# Comment Keep
+long = 1
+# Section A Keep
+[a]
+# This is a name. Keep
+name = ""
+# Section B Keep
+[a.b]
+# This is a name. Keep
+name = "Tommy"
+# Section C Keep
+[a.b.c]
+# This is a name. Keep
+name = "Samuel"
+# Section D Keep
+[a.b.d]
+# This is a name. Keep
+name = ""
